@@ -36,9 +36,13 @@
 
 
 The_Vehicle_Analytics_And_Count-Hub/
+
 ├── Programs/                 # Source code for detection and counting
+
 ├── Videos/                   # Sample videos for testing
+
 ├── detected_vehicles/        # Output images with detected vehicles
+
 └── README.md                 # Project documentation
 ---
 ## 🚀 Getting Started
