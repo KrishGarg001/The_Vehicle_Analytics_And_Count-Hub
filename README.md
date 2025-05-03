@@ -39,7 +39,6 @@ The_Vehicle_Analytics_And_Count-Hub/
 ├── Programs/                 # Source code for detection and counting
 ├── Videos/                   # Sample videos for testing
 ├── detected_vehicles/        # Output images with detected vehicles
-├── LICENSE                   # License file
 └── README.md                 # Project documentation
 
 ---
@@ -47,10 +46,6 @@ The_Vehicle_Analytics_And_Count-Hub/
 ## 📈 Sample Visualization
 
 ![Vehicle Detection](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
-*An animated representation of vehicle detection and counting in action.*
-
----
 
 ## 🚀 Getting Started
 
@@ -89,7 +84,7 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 - **Author**: Krish Garg
 - **GitHub**: [@KrishGarg001](https://github.com/KrishGarg001)
-
+- **Gmail**: zexuxkrish123@gmail.com
 ---
 
 <p align="center">
