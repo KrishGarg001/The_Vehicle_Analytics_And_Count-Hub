@@ -40,13 +40,7 @@ The_Vehicle_Analytics_And_Count-Hub/
 ├── Videos/                   # Sample videos for testing
 ├── detected_vehicles/        # Output images with detected vehicles
 └── README.md                 # Project documentation
-
 ---
-
-## 📈 Sample Visualization
-
-![Vehicle Detection](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**:
